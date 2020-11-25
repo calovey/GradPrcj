@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Generate QR Codes/vendor/bacon/bacon-qr-code" />
+      <excludeFolder url="file://$MODULE_DIR$/Generate QR Codes/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Generate QR Codes/vendor/endroid/qrcode" />
+      <excludeFolder url="file://$MODULE_DIR$/Generate QR Codes/vendor/khanamiryan/qrcode-detector-decoder" />
+      <excludeFolder url="file://$MODULE_DIR$/Generate QR Codes/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/Generate QR Codes/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/Generate QR Codes/vendor/symfony/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/Generate QR Codes/vendor/symfony/options-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/Generate QR Codes/vendor/symfony/polyfill-php70" />
+      <excludeFolder url="file://$MODULE_DIR$/Generate QR Codes/vendor/symfony/property-access" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="FinalProject_ITEC404" />
+  </component>
+</module>

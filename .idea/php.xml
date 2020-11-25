@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/composer" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/endroid/qrcode" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/khanamiryan/qrcode-detector-decoder" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/symfony/options-resolver" />
+    </include_path>
+  </component>
+</project>

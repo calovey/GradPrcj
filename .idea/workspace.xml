@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04e2f7c8-388d-4c13-ae74-3fbaf4c12583" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Generate QR Codes/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="v1.0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
+    <include_path>
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/composer" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/endroid/qrcode" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/khanamiryan/qrcode-detector-decoder" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/Generate QR Codes/vendor/symfony/options-resolver" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1Sse2AuALv23QPb9Ajakyu4KuPt" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\v1.0" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.languages">
+    <configuration name="languages" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/languages" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setting.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/setting.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.languages" />
+        <item itemvalue="PHP Script.setting.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04e2f7c8-388d-4c13-ae74-3fbaf4c12583" name="Default Changelist" comment="" />
+      <created>1572356520031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572356520031</updated>
+      <workItem from="1572356521266" duration="1106000" />
+      <workItem from="1572418881804" duration="9681000" />
+      <workItem from="1572439271537" duration="1216000" />
+      <workItem from="1572444096138" duration="3912000" />
+      <workItem from="1572591249738" duration="9319000" />
+      <workItem from="1572604740060" duration="748000" />
+      <workItem from="1572609681804" duration="408000" />
+      <workItem from="1572614763730" duration="6070000" />
+      <workItem from="1572678457172" duration="5821000" />
+      <workItem from="1572811219769" duration="1951000" />
+      <workItem from="1572869551300" duration="5492000" />
+      <workItem from="1572889356916" duration="113000" />
+      <workItem from="1573028080668" duration="6014000" />
+      <workItem from="1573047580651" duration="936000" />
+      <workItem from="1573049574678" duration="3817000" />
+      <workItem from="1573195936049" duration="5242000" />
+      <workItem from="1573216965415" duration="5205000" />
+      <workItem from="1573225226137" duration="911000" />
+      <workItem from="1573287347503" duration="5671000" />
+      <workItem from="1573319483695" duration="482000" />
+      <workItem from="1573411723983" duration="27000" />
+      <workItem from="1573628772687" duration="2528000" />
+      <workItem from="1573995439982" duration="179000" />
+      <workItem from="1575492311158" duration="461000" />
+      <workItem from="1576000471816" duration="1857000" />
+      <workItem from="1576048643390" duration="475000" />
+      <workItem from="1576416432802" duration="480000" />
+      <workItem from="1578247479059" duration="6379000" />
+      <workItem from="1578471033896" duration="1341000" />
+      <workItem from="1578678035414" duration="3929000" />
+      <workItem from="1578684270062" duration="1577000" />
+      <workItem from="1578689520244" duration="4000" />
+      <workItem from="1578776998201" duration="2000" />
+      <workItem from="1578838016599" duration="1778000" />
+      <workItem from="1578843040725" duration="14072000" />
+      <workItem from="1578937460215" duration="3963000" />
+      <workItem from="1578942686179" duration="5958000" />
+      <workItem from="1578998360741" duration="1943000" />
+      <workItem from="1579000377828" duration="3221000" />
+      <workItem from="1579073802492" duration="4678000" />
+      <workItem from="1579175263625" duration="1177000" />
+      <workItem from="1579176653886" duration="17229000" />
+      <workItem from="1579194157438" duration="1674000" />
+      <workItem from="1579202530265" duration="28000" />
+      <workItem from="1579203074643" duration="2580000" />
+      <workItem from="1579209626218" duration="569000" />
+      <workItem from="1579214522568" duration="648000" />
+      <workItem from="1579243175397" duration="2041000" />
+      <workItem from="1579247728851" duration="94000" />
+      <workItem from="1601631141053" duration="16000" />
+      <workItem from="1606292724314" duration="235000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
